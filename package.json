@@ -1,0 +1,24 @@
+{
+  "name": "next-markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Long Liangyou <longliangyou@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "github-api": "^3.0.0",
+    "next": "^2.1.1",
+    "node-fetch": "^1.6.3",
+    "qs": "^6.4.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-markdown": "^2.5.0",
+    "underscore": "^1.8.3"
+  }
+}
